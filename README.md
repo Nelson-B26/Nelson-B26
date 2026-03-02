@@ -7,6 +7,5 @@ I love music, don't ask me abaut Artist or Albums, if  I like something, I like 
 I am currently looking to expand my coding knowledge, mainly because I have some personal projects that require those skills; no matter how difficult it is, motivation is never lacking.
 
 # Lenguage
-![Python_image](https://images.icon-icons.com/2699/PNG/512/python_vertical_logo_icon_168039.png)
 <img src= "https://images.icon-icons.com/2699/PNG/512/python_vertical_logo_icon_168039.png" width="200" height="200">
 
